@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Quotation Tool",
+  "description": "Fast browser-based quotation builder with automated catalog price lookup, live manager dashboard, and interactive demo walkthrough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
